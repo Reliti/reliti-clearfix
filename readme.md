@@ -3,10 +3,12 @@
 A tiny plugin that adds a shortcode so that you can break floats in your
 WordPress posts and pages.
 
+Visit the [plugin homepage](https://reliti.net/clearfix "Clearfix WordPress plugin") for more information.
+
 ### Installation
 
 Once you've downloaded the zip file for this plugin follow the instructions
-on [our site](https://reliti.com/how-to-install-a-wordpress-plugin/) to
+on [our site](https://reliti.com/how-to-install-a-wordpress-plugin/ "How to install a WordPress plugin") to
 upload and active the clearfix plugin.
 
 ### Usage
